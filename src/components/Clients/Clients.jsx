@@ -13,6 +13,11 @@ let clients = [
         stars : 5,
     },
     {
+        name : "Camunda",
+        img_url : process.env.PUBLIC_URL + '/camunda.svg',
+        stars : 5,
+    },
+    {
         name : "Python",
         img_url : process.env.PUBLIC_URL + '/python.svg',
         stars : 4,
