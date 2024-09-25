@@ -13,6 +13,16 @@ let clients = [
         stars : 5,
     },
     {
+        name : "SpringBoot",
+        img_url : process.env.PUBLIC_URL + '/spring.svg',
+        stars : 5,
+    },
+    {
+        name : "MicroServices",
+        img_url : process.env.PUBLIC_URL + '/micro.svg',
+        stars : 5,
+    },
+    {
         name : "Camunda",
         img_url : process.env.PUBLIC_URL + '/camunda.svg',
         stars : 5,
