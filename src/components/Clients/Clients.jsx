@@ -58,8 +58,8 @@ let clients = [
         stars : 4,
     }
     ,{
-        name : "BOOTSTRAP",
-        img_url : process.env.PUBLIC_URL + '/Bootstrap.svg',
+        name : "POSTGRES SQL",
+        img_url : process.env.PUBLIC_URL + '/postgre.svg',
         stars : 4,
     }
     ,{
@@ -78,18 +78,23 @@ let clients = [
         stars : 3,
     }
     ,{
-        name : "MICROSOFT WORD",
-        img_url : process.env.PUBLIC_URL + '/microsoftword.svg',
-        stars : 3,
+        name : "Apache Kafka",
+        img_url : process.env.PUBLIC_URL + '/kafka.svg',
+        stars : 4,
     }
     ,{
-        name : "MICROSOFT EXCEL",
-        img_url : process.env.PUBLIC_URL + '/microsoftexcel.svg',
-        stars : 2,
+        name : "Redis",
+        img_url : process.env.PUBLIC_URL + '/redis.svg',
+        stars : 4,
     }
     ,{
         name : "SQL",
         img_url : process.env.PUBLIC_URL + '/sql.svg',
+        stars : 4,
+    }
+    ,{
+        name : "MONGO DB",
+        img_url : process.env.PUBLIC_URL + '/mongo.svg',
         stars : 3,
     }
     
