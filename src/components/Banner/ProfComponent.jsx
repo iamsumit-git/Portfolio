@@ -30,7 +30,7 @@ const ProfComponent = () => {
             <b>#TechEnthusiast</b>
           </p>
           <button>
-            <a href="sumity.vijay@gmail.com">Let's talk</a>
+            <a href="https://www.instagram.com/svby99/" target="_blank" rel="noopener noreferrer">Let's talk</a>
           </button>
           <Social>
             <p>Check out my</p>
