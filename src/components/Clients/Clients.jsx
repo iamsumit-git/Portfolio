@@ -63,9 +63,9 @@ let clients = [
         stars : 4,
     }
     ,{
-        name : "JQUERY",
-        img_url : process.env.PUBLIC_URL + '/jquery.svg',
-        stars : 3,
+        name : "Linux",
+        img_url : process.env.PUBLIC_URL + '/linux.svg',
+        stars : 4,
     }
     ,{
         name : "REACTJS",
